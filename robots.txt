@@ -1,1 +1,1 @@
-Sitemap: www.mlsolomon.io/sitemap.xml
+Sitemap: https://www.mlsolomon.io/sitemap.xml
