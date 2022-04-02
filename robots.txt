@@ -1,1 +1,1 @@
-Sitemap: https://neuralnut.github.io/upgrade.fastai.page/sitemap.xml
+Sitemap: www.mlsolomon.io/sitemap.xml
