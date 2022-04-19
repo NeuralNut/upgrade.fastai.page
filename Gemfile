@@ -10,9 +10,10 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.1.0"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", git: "https://github.com/jekyll/minima"
-bundle install && bundle update
+# bundle install && bundle update
+bundle update github-pages
 # To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
